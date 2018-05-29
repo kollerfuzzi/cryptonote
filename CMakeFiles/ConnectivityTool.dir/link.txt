@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ConnectivityTool.dir/ConnectivityTool/ConnectivityTool.o  -o connectivity_tool libCryptoNoteCore.a libCommon.a libLogging.a libCrypto.a libP2P.a libRpc.a libHttp.a libSerialization.a libSystem.a 

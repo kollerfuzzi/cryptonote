@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/SimpleWallet.dir/SimpleWallet/PasswordContainer.o CMakeFiles/SimpleWallet.dir/SimpleWallet/SimpleWallet.o  -o simplewallet libWallet.a libNodeRpcProxy.a libTransfers.a libRpc.a libHttp.a libSerialization.a libCryptoNoteCore.a libSystem.a libLogging.a libCommon.a libCrypto.a 

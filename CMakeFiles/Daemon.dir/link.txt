@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Daemon.dir/Daemon/Daemon.o CMakeFiles/Daemon.dir/Daemon/DaemonCommandsHandler.o  -o kaindorfcoind  -L/home/koller/kaindorfcoin libCryptoNoteCore.a libP2P.a libRpc.a libSerialization.a libSystem.a libHttp.a libLogging.a libCommon.a libCrypto.a -lupnpc-static libBlockchainExplorer.a 

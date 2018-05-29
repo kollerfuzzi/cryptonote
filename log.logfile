@@ -1,0 +1,7 @@
+mkdir -p build/release
+cd build/release && cmake -D CMAKE_BUILD_TYPE=Release ../..
+-- Found Git: /usr/bin/git
+-- Configuring incomplete, errors occurred!
+See also "/home/koller/kaindorfcoin/build/release/CMakeFiles/CMakeOutput.log".
+See also "/home/koller/kaindorfcoin/build/release/CMakeFiles/CMakeError.log".
+Makefile:16: recipe for target 'cmake-release' failed

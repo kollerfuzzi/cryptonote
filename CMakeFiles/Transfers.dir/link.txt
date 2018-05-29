@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTransfers.a  CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.o CMakeFiles/Transfers.dir/Transfers/SynchronizationState.o CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.o CMakeFiles/Transfers.dir/Transfers/TransfersContainer.o CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.o CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.o
+/usr/bin/ranlib libTransfers.a

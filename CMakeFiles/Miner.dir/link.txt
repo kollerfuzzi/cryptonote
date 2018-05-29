@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Miner.dir/Miner/BlockchainMonitor.o CMakeFiles/Miner.dir/Miner/Miner.o CMakeFiles/Miner.dir/Miner/MinerManager.o CMakeFiles/Miner.dir/Miner/MiningConfig.o CMakeFiles/Miner.dir/Miner/main.o  -o miner libCryptoNoteCore.a libRpc.a libSerialization.a libSystem.a libHttp.a libLogging.a libCommon.a libCrypto.a 
